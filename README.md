@@ -1,2 +1,2 @@
-# https-shufflefm.xyz
+# shufflefm.xyz
 Beelzebub website
